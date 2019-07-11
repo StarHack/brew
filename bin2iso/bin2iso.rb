@@ -1,4 +1,4 @@
-class BIN2ISO < Formula
+class Bin2iso < Formula
   desc "Converts *.cue CD images along with their *.bin or *.raw files to *.iso format. Based on bin2iso by pld-linux."
   homepage "https://github.com/pld-linux/bin2iso"
   url "https://github.com/StarHack/brew/raw/master/bin2iso-19b.tar.gz"
